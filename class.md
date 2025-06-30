@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Sina Rostam
 Meta Front-End course
 
